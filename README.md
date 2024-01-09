@@ -1,9 +1,3 @@
-# exerciseTracker
-GET user's exercise log: GET /api/users/:_id/logs?[from][&to][&limit]
+# Exercise Tracker
 
-[ ] = optional
-
-from, to = dates (yyyy-mm-dd); limit = number
-
-Post new User
-Add exercise to user
+This is the boilerplate for the Exercise Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker
